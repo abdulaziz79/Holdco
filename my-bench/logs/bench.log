@@ -1,0 +1,171 @@
+2025-01-01 12:01:21,755 DEBUG cd my-bench && python3 -m venv env
+2025-01-01 12:01:23,797 DEBUG cd my-bench && /home/abdulaziz/Desktop/Holdco/my-bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-01-01 12:01:25,072 DEBUG cd my-bench && /home/abdulaziz/Desktop/Holdco/my-bench/env/bin/python -m pip install --quiet wheel
+2025-01-01 12:01:36,781 LOG Getting frappe
+2025-01-01 12:01:36,781 DEBUG cd my-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2025-01-01 12:01:57,776 LOG Installing frappe
+2025-01-01 12:01:57,776 DEBUG cd /home/abdulaziz/Desktop/Holdco/my-bench && /home/abdulaziz/Desktop/Holdco/my-bench/env/bin/python -m pip install --quiet --upgrade -e /home/abdulaziz/Desktop/Holdco/my-bench/apps/frappe 
+2025-01-01 12:02:26,148 DEBUG cd /home/abdulaziz/Desktop/Holdco/my-bench/apps/frappe && yarn install --check-files
+2025-01-01 12:02:30,796 WARNING restart failed: Couldn't find supervisorctl in PATH
+2025-01-01 12:02:30,797 DEBUG cd my-bench && bench build
+2025-01-01 12:02:30,892 INFO /usr/local/bin/bench build
+2025-01-01 12:02:57,971 LOG setting up backups
+2025-01-01 12:02:57,979 LOG backups were set up
+2025-01-01 12:02:57,980 INFO Bench my-bench initialized
+2025-01-01 12:18:54,014 INFO /usr/local/bin/bench new-app holdo_task
+2025-01-01 12:18:54,019 LOG creating new app holdo_task
+2025-01-01 12:23:55,065 LOG Installing holdo_task
+2025-01-01 12:23:55,066 DEBUG cd /home/abdulaziz/Desktop/Holdco/my-bench && /home/abdulaziz/Desktop/Holdco/my-bench/env/bin/python -m pip install --quiet --upgrade -e /home/abdulaziz/Desktop/Holdco/my-bench/apps/holdo_task 
+2025-01-01 12:23:56,574 DEBUG bench build --app holdo_task
+2025-01-01 12:23:56,656 INFO /usr/local/bin/bench build --app holdo_task
+2025-01-01 12:23:57,844 WARNING restart failed: Couldn't find supervisorctl in PATH
+2025-01-01 12:25:26,777 INFO /usr/local/bin/bench get-app https://github.com/NagariaHussain/doppio
+2025-01-01 12:25:26,782 LOG Getting doppio
+2025-01-01 12:25:26,782 DEBUG cd ./apps && git clone https://github.com/NagariaHussain/doppio  --depth 1 --origin upstream
+2025-01-01 12:25:32,844 LOG Installing doppio
+2025-01-01 12:25:32,844 DEBUG cd /home/abdulaziz/Desktop/Holdco/my-bench && /home/abdulaziz/Desktop/Holdco/my-bench/env/bin/python -m pip install --quiet --upgrade -e /home/abdulaziz/Desktop/Holdco/my-bench/apps/doppio 
+2025-01-01 12:25:33,875 DEBUG cd /home/abdulaziz/Desktop/Holdco/my-bench/apps/doppio && yarn install --check-files
+2025-01-01 12:25:34,498 DEBUG bench build --app doppio
+2025-01-01 12:25:34,591 INFO /usr/local/bin/bench build --app doppio
+2025-01-01 12:25:35,947 WARNING restart failed: Couldn't find supervisorctl in PATH
+2025-01-01 12:26:12,520 INFO /usr/local/bin/bench add-spa
+2025-01-01 12:30:29,039 INFO /usr/local/bin/bench add-spa
+2025-01-01 12:39:20,683 INFO /usr/local/bin/bench new-site holdco.dev
+2025-01-01 12:42:03,065 INFO /usr/local/bin/bench use holdco.dev
+2025-01-01 12:43:02,715 INFO /usr/local/bin/bench install-app holdo_task
+2025-01-01 12:43:20,225 INFO /usr/local/bin/bench start
+2025-01-01 12:43:20,417 INFO /usr/local/bin/bench watch
+2025-01-01 12:43:20,430 INFO /usr/local/bin/bench worker
+2025-01-01 12:43:20,434 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 12:43:20,437 INFO /usr/local/bin/bench schedule
+2025-01-01 13:02:23,412 INFO /usr/local/bin/bench --site holdco.dev console
+2025-01-01 13:03:33,468 INFO /usr/local/bin/bench start
+2025-01-01 13:03:33,627 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 13:03:33,651 INFO /usr/local/bin/bench worker
+2025-01-01 13:03:33,666 INFO /usr/local/bin/bench watch
+2025-01-01 13:03:33,668 INFO /usr/local/bin/bench schedule
+2025-01-01 13:04:43,573 INFO /usr/local/bin/bench clear-cache
+2025-01-01 13:04:44,152 INFO /usr/local/bin/bench build
+2025-01-01 13:04:51,112 INFO /usr/local/bin/bench start
+2025-01-01 13:04:51,271 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 13:04:51,287 INFO /usr/local/bin/bench watch
+2025-01-01 13:04:51,290 INFO /usr/local/bin/bench schedule
+2025-01-01 13:04:51,317 INFO /usr/local/bin/bench worker
+2025-01-01 13:13:29,076 INFO /usr/local/bin/bench start
+2025-01-01 13:13:29,231 INFO /usr/local/bin/bench schedule
+2025-01-01 13:13:29,233 INFO /usr/local/bin/bench worker
+2025-01-01 13:13:29,274 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 13:13:29,277 INFO /usr/local/bin/bench watch
+2025-01-01 13:24:59,806 INFO /usr/local/bin/bench start
+2025-01-01 13:25:13,313 INFO /usr/local/bin/bench start
+2025-01-01 13:27:17,688 INFO /usr/local/bin/bench start
+2025-01-01 13:30:18,782 INFO /usr/local/bin/bench start
+2025-01-01 13:32:05,713 INFO /usr/local/bin/bench start
+2025-01-01 13:32:05,880 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 13:32:05,886 INFO /usr/local/bin/bench watch
+2025-01-01 13:32:05,914 INFO /usr/local/bin/bench schedule
+2025-01-01 13:32:05,930 INFO /usr/local/bin/bench worker
+2025-01-01 13:33:15,556 INFO /usr/local/bin/bench start
+2025-01-01 13:33:15,712 INFO /usr/local/bin/bench watch
+2025-01-01 13:33:15,724 INFO /usr/local/bin/bench worker
+2025-01-01 13:33:15,727 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 13:33:15,743 INFO /usr/local/bin/bench schedule
+2025-01-01 15:47:05,095 INFO /usr/local/bin/bench start
+2025-01-01 15:47:05,273 INFO /usr/local/bin/bench worker
+2025-01-01 15:47:05,276 INFO /usr/local/bin/bench watch
+2025-01-01 15:47:05,293 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 15:47:05,321 INFO /usr/local/bin/bench schedule
+2025-01-01 15:47:37,763 INFO /usr/local/bin/bench start
+2025-01-01 15:47:37,934 INFO /usr/local/bin/bench watch
+2025-01-01 15:47:37,941 INFO /usr/local/bin/bench schedule
+2025-01-01 15:47:37,953 INFO /usr/local/bin/bench worker
+2025-01-01 15:47:37,957 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 16:33:32,194 INFO /usr/local/bin/bench start
+2025-01-01 16:33:32,343 INFO /usr/local/bin/bench worker
+2025-01-01 16:33:32,348 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 16:33:32,386 INFO /usr/local/bin/bench schedule
+2025-01-01 16:33:32,398 INFO /usr/local/bin/bench watch
+2025-01-01 16:39:28,703 INFO /usr/local/bin/bench --site holdco.dev clear-cache
+2025-01-01 16:39:29,274 INFO /usr/local/bin/bench restart
+2025-01-01 16:39:29,282 WARNING restart failed: Couldn't find supervisorctl in PATH
+2025-01-01 16:39:35,119 INFO /usr/local/bin/bench start
+2025-01-01 16:39:35,268 INFO /usr/local/bin/bench worker
+2025-01-01 16:39:35,269 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 16:39:35,307 INFO /usr/local/bin/bench watch
+2025-01-01 16:39:35,317 INFO /usr/local/bin/bench schedule
+2025-01-01 17:33:25,425 INFO /usr/local/bin/bench set-admin-password admin123
+2025-01-01 17:33:48,046 INFO /usr/local/bin/bench start
+2025-01-01 17:33:48,305 INFO /usr/local/bin/bench schedule
+2025-01-01 17:33:48,309 INFO /usr/local/bin/bench serve --port 8000
+2025-01-01 17:33:48,329 INFO /usr/local/bin/bench watch
+2025-01-01 17:33:48,331 INFO /usr/local/bin/bench worker
+2025-01-01 18:00:01,914 INFO /usr/local/bin/bench --verbose --site all backup
+2025-01-01 22:35:08,955 INFO /usr/local/bin/bench start
+2025-01-01 22:35:09,166 INFO /usr/local/bin/bench watch
+2025-01-01 22:35:09,169 INFO /usr/local/bin/bench worker
+2025-01-01 22:35:09,182 INFO /usr/local/bin/bench schedule
+2025-01-01 22:35:09,191 INFO /usr/local/bin/bench serve --port 8000
+2025-01-02 00:00:01,812 INFO /usr/local/bin/bench --verbose --site all backup
+2025-01-02 00:37:13,329 INFO /usr/local/bin/bench start
+2025-01-02 00:37:13,509 INFO /usr/local/bin/bench schedule
+2025-01-02 00:37:13,510 INFO /usr/local/bin/bench worker
+2025-01-02 00:37:13,515 INFO /usr/local/bin/bench watch
+2025-01-02 00:37:13,529 INFO /usr/local/bin/bench serve --port 8000
+2025-01-02 10:18:26,802 INFO /usr/local/bin/bench start
+2025-01-02 10:18:27,002 INFO /usr/local/bin/bench worker
+2025-01-02 10:18:27,032 INFO /usr/local/bin/bench serve --port 8000
+2025-01-02 10:18:27,034 INFO /usr/local/bin/bench watch
+2025-01-02 10:18:27,039 INFO /usr/local/bin/bench schedule
+2025-01-02 12:00:01,670 INFO /usr/local/bin/bench --verbose --site all backup
+2025-01-02 14:45:05,532 INFO /usr/local/bin/bench start
+2025-01-02 14:45:05,726 INFO /usr/local/bin/bench watch
+2025-01-02 14:45:05,731 INFO /usr/local/bin/bench serve --port 8000
+2025-01-02 14:45:05,742 INFO /usr/local/bin/bench worker
+2025-01-02 14:45:05,749 INFO /usr/local/bin/bench schedule
+2025-01-02 17:25:39,184 INFO /usr/local/bin/bench start
+2025-01-02 17:25:39,362 INFO /usr/local/bin/bench worker
+2025-01-02 17:25:39,362 INFO /usr/local/bin/bench watch
+2025-01-02 17:25:39,385 INFO /usr/local/bin/bench serve --port 8000
+2025-01-02 17:25:39,398 INFO /usr/local/bin/bench schedule
+2025-01-02 18:00:01,992 INFO /usr/local/bin/bench --verbose --site all backup
+2025-01-02 19:00:34,022 INFO /usr/local/bin/bench start
+2025-01-02 19:00:34,226 INFO /usr/local/bin/bench schedule
+2025-01-02 19:00:34,227 INFO /usr/local/bin/bench watch
+2025-01-02 19:00:34,241 INFO /usr/local/bin/bench worker
+2025-01-02 19:00:34,259 INFO /usr/local/bin/bench serve --port 8000
+2025-01-02 23:41:11,730 INFO /usr/local/bin/bench start
+2025-01-02 23:41:11,923 INFO /usr/local/bin/bench schedule
+2025-01-02 23:41:11,927 INFO /usr/local/bin/bench worker
+2025-01-02 23:41:11,968 INFO /usr/local/bin/bench watch
+2025-01-02 23:41:11,974 INFO /usr/local/bin/bench serve --port 8000
+2025-01-02 23:58:22,878 INFO /usr/local/bin/bench start
+2025-01-02 23:58:23,043 INFO /usr/local/bin/bench worker
+2025-01-02 23:58:23,046 INFO /usr/local/bin/bench schedule
+2025-01-02 23:58:23,076 INFO /usr/local/bin/bench serve --port 8000
+2025-01-02 23:58:23,090 INFO /usr/local/bin/bench watch
+2025-01-03 00:00:02,045 INFO /usr/local/bin/bench --verbose --site all backup
+2025-01-03 00:34:58,833 INFO /usr/local/bin/bench start
+2025-01-03 00:34:59,025 INFO /usr/local/bin/bench schedule
+2025-01-03 00:34:59,032 INFO /usr/local/bin/bench serve --port 8000
+2025-01-03 00:34:59,033 INFO /usr/local/bin/bench watch
+2025-01-03 00:34:59,037 INFO /usr/local/bin/bench worker
+2025-01-03 00:36:44,799 INFO /usr/local/bin/bench start
+2025-01-03 00:36:44,967 INFO /usr/local/bin/bench worker
+2025-01-03 00:36:44,972 INFO /usr/local/bin/bench serve --port 8000
+2025-01-03 00:36:44,996 INFO /usr/local/bin/bench schedule
+2025-01-03 00:36:45,008 INFO /usr/local/bin/bench watch
+2025-01-03 00:37:28,483 INFO /usr/local/bin/bench start
+2025-01-03 00:37:28,638 INFO /usr/local/bin/bench serve --port 8000
+2025-01-03 00:37:28,642 INFO /usr/local/bin/bench schedule
+2025-01-03 00:37:28,657 INFO /usr/local/bin/bench worker
+2025-01-03 00:37:28,662 INFO /usr/local/bin/bench watch
+2025-01-03 00:40:38,449 INFO /usr/local/bin/bench start
+2025-01-03 00:40:38,601 INFO /usr/local/bin/bench worker
+2025-01-03 00:40:38,636 INFO /usr/local/bin/bench schedule
+2025-01-03 00:40:38,638 INFO /usr/local/bin/bench serve --port 8000
+2025-01-03 00:40:38,655 INFO /usr/local/bin/bench watch
+2025-01-03 00:43:23,639 INFO /usr/local/bin/bench start
+2025-01-03 00:43:23,813 INFO /usr/local/bin/bench worker
+2025-01-03 00:43:23,820 INFO /usr/local/bin/bench serve --port 8000
+2025-01-03 00:43:23,823 INFO /usr/local/bin/bench watch
+2025-01-03 00:43:23,832 INFO /usr/local/bin/bench schedule

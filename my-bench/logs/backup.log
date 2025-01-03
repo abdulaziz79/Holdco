@@ -1,0 +1,30 @@
+set -o pipefail; /usr/bin/mariadb-dump --user=_09658648c27b6d1c --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _09658648c27b6d1c | /usr/bin/gzip >> ./holdco.dev/private/backups/20250101_180002-holdco_dev-database.sql.gz
+
+Backup Summary for holdco.dev at 2025-01-01 18:00:02.299560
+Config  : ./holdco.dev/private/backups/20250101_180002-holdco_dev-site_config_backup.json 94.0B
+Database: ./holdco.dev/private/backups/20250101_180002-holdco_dev-database.sql.gz         281.4KiB
+Backup for Site holdco.dev has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_09658648c27b6d1c --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _09658648c27b6d1c | /usr/bin/gzip >> ./holdco.dev/private/backups/20250102_000002-holdco_dev-database.sql.gz
+
+Backup Summary for holdco.dev at 2025-01-02 00:00:02.200103
+Config  : ./holdco.dev/private/backups/20250102_000002-holdco_dev-site_config_backup.json 94.0B
+Database: ./holdco.dev/private/backups/20250102_000002-holdco_dev-database.sql.gz         290.7KiB
+Backup for Site holdco.dev has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_09658648c27b6d1c --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _09658648c27b6d1c | /usr/bin/gzip >> ./holdco.dev/private/backups/20250102_120001-holdco_dev-database.sql.gz
+
+Backup Summary for holdco.dev at 2025-01-02 12:00:02.145952
+Config  : ./holdco.dev/private/backups/20250102_120001-holdco_dev-site_config_backup.json 94.0B
+Database: ./holdco.dev/private/backups/20250102_120001-holdco_dev-database.sql.gz         298.2KiB
+Backup for Site holdco.dev has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_09658648c27b6d1c --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _09658648c27b6d1c | /usr/bin/gzip >> ./holdco.dev/private/backups/20250102_180002-holdco_dev-database.sql.gz
+
+Backup Summary for holdco.dev at 2025-01-02 18:00:02.392054
+Config  : ./holdco.dev/private/backups/20250102_180002-holdco_dev-site_config_backup.json 94.0B
+Database: ./holdco.dev/private/backups/20250102_180002-holdco_dev-database.sql.gz         310.6KiB
+Backup for Site holdco.dev has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_09658648c27b6d1c --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _09658648c27b6d1c | /usr/bin/gzip >> ./holdco.dev/private/backups/20250103_000002-holdco_dev-database.sql.gz
+
+Backup Summary for holdco.dev at 2025-01-03 00:00:02.434723
+Config  : ./holdco.dev/private/backups/20250103_000002-holdco_dev-site_config_backup.json 94.0B
+Database: ./holdco.dev/private/backups/20250103_000002-holdco_dev-database.sql.gz         329.0KiB
+Backup for Site holdco.dev has been successfully completed

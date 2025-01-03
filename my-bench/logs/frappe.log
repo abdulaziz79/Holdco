@@ -1,0 +1,318 @@
+2025-01-01 16:25:04,087 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:25:08,160 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:25:13,833 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:25:20,107 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:25:44,993 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:25:58,687 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:26:11,304 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:26:43,409 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:27:07,714 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:27:22,788 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:27:23,768 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:28:52,657 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:29:02,031 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:34:11,623 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:34:43,984 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:34:49,211 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:36:25,250 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:36:41,276 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:36:44,666 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:36:44,983 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:36:52,376 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:36:57,894 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'usr': 'administrator', 'pwd': '********'}
+2025-01-01 16:39:50,784 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 16:39:55,763 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 17:31:33,462 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 17:31:38,614 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'login', 'usr': 'Administrator', 'pwd': '********'}
+2025-01-01 23:58:42,590 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'user_name': 'USER-000003', 'cmd': 'holdo_task.api.auth.register'}
+2025-01-02 10:48:59,916 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'email': 'aziz@gmail.com', 'password': '********', 'cmd': 'holdo_task.api.auth.register'}
+2025-01-02 12:41:55,110 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'user_emal': 'aziz@gmail.com', 'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 12:53:31,217 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'username': 'newwww@gmail.com', 'password': '********', 'cmd': 'holdo_task.api.auth.register'}
+2025-01-02 14:35:20,380 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 15:54:04,551 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'user_email': 'aziz@gmail.com', 'cmd': 'holdo_task.api.todo.create_todo'}
+2025-01-02 15:54:38,489 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'user_email': 'aziz@gmail.com', 'cmd': 'holdo_task.api.todo.create_todo'}
+2025-01-02 15:56:13,570 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'user_email': 'aziz@gmail.com', 'cmd': 'holdo_task.api.todo.create_todo'}
+2025-01-02 15:58:32,219 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'user_email': 'aziz@gmail.com', 'cmd': 'holdo_task.api.todo.create_todo'}
+2025-01-02 15:59:17,143 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 15:59:17,153 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:00:21,376 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:00:21,387 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:05:40,238 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:05:40,239 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:05:58,421 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:05:58,427 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:07:33,234 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:07:33,235 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:07:35,144 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 16:07:35,147 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 17:52:21,909 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 17:52:21,909 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:07:23,747 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:07:23,747 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:09:59,572 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:09:59,572 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:10:17,283 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:10:17,295 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:46:21,321 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:46:21,321 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:46:42,136 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:46:42,156 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:47:02,611 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:47:02,622 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:47:04,252 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:47:04,256 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:48:48,486 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 18:48:48,488 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:01:28,490 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:01:28,490 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:06:44,836 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:06:44,837 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:14:26,246 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:14:26,246 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:27:18,978 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:27:18,979 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:27:21,266 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 19:27:21,267 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 20:14:25,321 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 20:14:25,324 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos_by_user_email'}
+2025-01-02 21:06:37,327 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:24:48,704 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:24:48,704 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:24:51,568 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:24:51,569 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:23,171 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:23,183 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:27,331 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:27,341 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:47,796 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:47,819 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:48,754 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:48,756 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:49,686 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:30:49,688 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:31:56,302 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:31:56,302 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:31:56,303 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:31:56,308 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:32:00,733 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:32:00,779 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:32:00,799 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:32:00,801 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:32:49,357 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 21:32:49,366 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'cmd': 'holdo_task.api.todo.get_todos'}
+2025-01-02 22:43:37,196 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'description': 'asd', 'cmd': 'holdo_task.api.todo.create_todo'}
+2025-01-02 23:33:46,235 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'allocated_to': 'aziz@gmail.com', 'cmd': 'holdo_task.api.todo.delete_todo'}
+2025-01-03 01:03:11,320 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {'description': 'asd', 'cmd': 'holdo_task.api.todo.create_todo'}
+2025-01-03 02:46:55,899 ERROR frappe New Exception collected in error log
+Site: holdco.dev
+Form Dict: {}
