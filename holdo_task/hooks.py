@@ -5,6 +5,7 @@ app_description = "Job task"
 app_email = "aboudecharkawi@gmail.com"
 app_license = "agpl-3.0"
 
+
 # Apps
 # ------------------
 
@@ -241,4 +242,7 @@ app_license = "agpl-3.0"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
+
+
+website_route_rules = [{'from_route': '/holdco/<path:app_path>', 'to_route': 'holdco'},]
 
